@@ -1,6 +1,9 @@
 {
-    "name": "snsina/curl",
+    "name": "snsina/curlist",
+    "type": "bundle",
     "description": "A PHP package for using curl",
+    "keywords": ["curl", "php", "symfony"],
+    "license": "MIT",
     "authors": [
         {
             "name": "Siavash Namvar",
@@ -8,5 +11,11 @@
         }
     ],
     "require": {
+        "php":  ">=5.3"
+    },
+    "autoload": {
+        "psr-0": {
+            "Monolog": "src"
+        }
     }
 }
