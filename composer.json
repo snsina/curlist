@@ -1,0 +1,12 @@
+{
+    "name": "snsina/curl",
+    "description": "A PHP package for using curl",
+    "authors": [
+        {
+            "name": "Siavash Namvar",
+            "email": "siavash@snsina.com"
+        }
+    ],
+    "require": {
+    }
+}
