@@ -4,6 +4,7 @@
     "description": "A PHP package for using curl",
     "keywords": ["curl", "php", "symfony"],
     "license": "MIT",
+    "preferred-install": "dev",
     "authors": [
         {
             "name": "Siavash Namvar",
