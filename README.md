@@ -1,10 +1,10 @@
 # curlist
 This is a small library for sending/receiving requests/responses to/from a remote URL using curl in PHP.
 
-<h2>Frameworks</h2>
+<h3>Frameworks</h3>
 Curlist can be installed and used in Symfony 2, Zend Framework 2 and any modern framework which supports namespace and composer.
 
-<h2>Installation</h2>
+<h3>Installation</h3>
 To install run either if following commands in the root directory of project.
 
 <ul>
@@ -15,10 +15,10 @@ OR
 <li>php composer.phar require "snsina/curlist":"dev-master"</li>
 </ul>
 
-<h2>Set Options</h2>
+<h3>Set Options</h3>
  You may refer to this page for having options: http://php.net/manual/en/function.curl-setopt.php
  
- <h2>Supported request methods</h2>
+ <h3>Supported request methods</h3>
  <ul>
  <li><b>GET</b>: supported</li>
  <li><b>POST</b>: supported</li>
