@@ -13,7 +13,8 @@
         }
     ],
     "require": {
-        "php":  ">=5.3"
+        "php":  ">=5.3",
+        "snsina/curlist": "1.0-dev"
     },
     "autoload": {
         "psr-0": {
