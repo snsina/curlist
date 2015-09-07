@@ -26,4 +26,16 @@ OR
  <li><b>DELETE</b>: will be supported soon</li>
  </ul>
  
+ <h3>How to use</h3>
+ ```
+ use Snsina\Curlist\CurlSvc;
+ ....
+ $curl = new CurlSvc();
  
+ // get
+ $curl->get($url, array $options, $headers);
+ 
+ //post
+ $curl->post($url, array $options, $headers);
+ 
+ ```
