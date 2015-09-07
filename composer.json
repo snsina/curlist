@@ -5,7 +5,7 @@
     "keywords": ["curl", "php", "symfony"],
     "license": "MIT",
     "minimum-stability": "dev",
-    "preferred-install": "dev"
+    "preferred-install": "dev",
     "authors": [
         {
             "name": "Siavash Namvar",
