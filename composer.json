@@ -2,7 +2,7 @@
     "name": "snsina/curlist",
     "type": "bundle",
     "description": "A PHP package for using curl",
-    "keywords": ["curl", "php", "symfony"],
+    "keywords": ["curl", "php", "symfony", "zend framework"],
     "license": "MIT",
     "minimum-stability": "dev",
     "authors": [
