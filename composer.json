@@ -17,7 +17,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Snsina\Curlist": "src"
+            "snsina/curlist": "src"
         }
     }
 }
