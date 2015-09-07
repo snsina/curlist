@@ -1,5 +1,5 @@
 <?php
-namespace Snsina\Curll
+namespace Snsina\Curlist
 
 /**
  * 
